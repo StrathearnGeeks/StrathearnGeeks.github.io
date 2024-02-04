@@ -33,5 +33,15 @@ locations:
             Perthshire
             PH7 3JA
 ---
+<div class="row p-3">
+<div class="col col-12">
+<div class="card">
+    <div>
+    <h2>Who are we</h2>
+    <p>Strathearn Geeks is a monthly social gathering, currently alternating between Muthill and Crieff, for those interested in computing (programming, open source, etc), making (3D printing, electronics, etc) and other related niche subjects. We welcome those of all skill levels, offering help and advice, or just a place to chat with like minded people.</p>
+    </div>
+</div>
+</div>
+</div>
 {{< info_cards >}}
 {{< maps >}}
